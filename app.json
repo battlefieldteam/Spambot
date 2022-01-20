@@ -1,7 +1,7 @@
 {
-      "name": "MLO SPAMBOT",
+      "name": "SANKI SPAMBOT",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "https://telegra.ph/file/0a8cec1011596c33154d8.jpg",
+      "logo": "https://telegra.ph/file/56120f962f3e40bf68543.jpg",
       "keywords": [
         "telegram",
         "telethon",
@@ -9,21 +9,21 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/AkshuPrashu",
-  "website": "https://github.com/AkshuPrashu",
-  "success_url": "https://t.me/Tg_Godfather",
+  "repository": "https://github.com/battlefieldteam",
+  "website": "https://github.com/battlefieldteam",
+  "success_url": "https://t.me/Battlefield_reloaded",
       "env": {
-             "API_ID": {
+             "API_ID": {16382040
         "description": "Fill Api ID Take this value from My.telegram.org",
         "value": "",
         "required": true
       },
-      "ALIVE_PIC": {
+      "ALIVE_PIC": {https://telegra.ph/file/56120f962f3e40bf68543.jpg
         "description": "your alive pic or video",
         "value": "",
         "required": false
       },
-      "API_HASH": {
+      "API_HASH": {a197d11b17a9ca7c022e649d3ad23644
         "description": "Fill Api hash Take this value from My.telegram.org",
         "value": "",
         "required": true
