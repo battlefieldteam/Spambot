@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://telegra.ph/file/0a8cec1011596c33154d8.jpg" alt="BOT-SPAM logo">
-</p>
+  <img src="" alt="BOT-SPAM logo">
+</p>https://telegra.ph/file/0a8cec1011596c33154d8.jpg
 <h1 align="center">
   <b>SANKI SPAMBOTS</b>
 </h1>
