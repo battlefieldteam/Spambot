@@ -28,117 +28,117 @@
         "value": "",
         "required": true
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {5097744472:AAEr4sFJFgqzRSctfb_lmDdPwYYWYIsX2nk
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN2": {
+      "BOT_TOKEN2": {5083884854:AAFWbZQkyV9ZH_rETXRYvic-rEreo5P8nDw
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN3": {
+      "BOT_TOKEN3": {5046489859:AAEBoabqxTIThgcQNKQaGBEpS75T22DjRi8
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN4": {
+      "BOT_TOKEN4": {5091325110:AAHmMWjDFXMIrnYEdd44RXfS1wo54SdPXVw
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN5": {
+      "BOT_TOKEN5": {5098926426:AAFg6sK6I_W7OL4-9LEXLJUh6SqL5xV4pXI
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN6": {
+      "BOT_TOKEN6": {5069439456:AAG4N7Vw9WR2uTcIhKF_RGKYw2IHyGkxR1Q
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN7": {
+      "BOT_TOKEN7": {5084819050:AAFtL5p1OqW_jmNuOEjs-XSYLDtW04rV_pw
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN8": {
+      "BOT_TOKEN8": {5022305677:AAEy95FFY6LuwRHxOmeAld2QsMmFyDPnZrg
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN9": {
+      "BOT_TOKEN9": {5090631180:AAFys4BltgBgZmT9B-pP4G6FfvAisgVits4
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN10": {
+      "BOT_TOKEN10": {5062848756:AAFPr1VPolU68PJLsMGY_jEZN2A2MgLLoaY
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN11": {
+      "BOT_TOKEN11": {5001129486:AAHfH-CQdyOwqk4a291LxbBENChxiVSREJs
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN12": {
+      "BOT_TOKEN12": {5066706784:AAEceeYU5DO5sOo4UYDReVgQhn2QHZWO2ps
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN13": {
+      "BOT_TOKEN13": {5055564853:AAHEqP4fyL_x1yAjWDomAzqj6_zQuiS90nY
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN14": {
+      "BOT_TOKEN14": {5034849548:AAE3pDxQyBUNqrh1OXBigS4Q_se5tKRm7O8
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN15": {
+      "BOT_TOKEN15": {5032787262:AAGDlkSMhWI-uxRxVDrRzn0wqPEGA9v4Jgw
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN16": {
+      "BOT_TOKEN16": {5007063625:AAHp6eQ0Kt73vNL2FeVvB4C663SXA_FfXws
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN17": {
+      "BOT_TOKEN17": {5047524146:AAGYo2G6OU-aFKguhh-3T5XquECCxfLrBgs
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN18": {
+      "BOT_TOKEN18": {5070431054:AAHovwptuFbZP-wzZGI1hbQUUf78aX5m0Zk
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN19": {
+      "BOT_TOKEN19": {5054810888:AAHd3f7dlPoL20H72SgpGSHQR3kaLDzACUA
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN20": {
+      "BOT_TOKEN20": {5099320014:AAE50tiQiGVygo4CeRseAaArWYTVwjn9Tvk
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-       "SUDO_USER": {
+       "SUDO_USER": {5080100895
             "description": "Sudo users id space by space",
             "value": "1956402176",
             "required": true
         },
-        "HEROKU_API_KEY": {
+        "HEROKU_API_KEY": {f716da3a-f032-4eb5-85b0-376f3c809b4f
             "description": "Your Heroku api key to update your bot",
             "value": "",
             "required": false 
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": {battlefield-team
             "description": "Your app name to Update your bot",
           "value": "",
           "required": false  
